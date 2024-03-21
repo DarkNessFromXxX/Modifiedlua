@@ -314,7 +314,7 @@ else
 	notify.New("This game is not supported by hohohub :(", 60)
 	notify.New("Please join discord.gg/hohohub to see what game r supported by us!", 60)
 end
-wait(25)
+wait(60)
 local Http = game:GetService("HttpService")
 local TPS = game:GetService("TeleportService")
 local Api = "https://games.roblox.com/v1/games/"
